@@ -1,4 +1,5 @@
 shower
 clean
 ride bicycle
-Program 
+Learn a trick
+kill a task
